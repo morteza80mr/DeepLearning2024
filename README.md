@@ -10,7 +10,7 @@
 ---
 
 ### 🎓 About the Course
-Welcome to **DeepLearning2024**, the repository for all practice exercises, code snippets, and exploratory notebooks from the **Deep Learning** course conducted in the first semester of 2024.
+Welcome to **DeepLearning2024**, the repository for all practice exercises, code snippets, and exploratory notebooks from the **Deep Learning** course conducted in the first semester of 2024 - 2025.
 
 **Instructor:**  
 **Mahdi Aliyari-Shoorehdeli, Ph.D.**  
